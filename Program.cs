@@ -8,7 +8,7 @@ namespace TraditionEnumerable
 {
     public class javascriptstest
     {
-        public void Greet()
+         public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }

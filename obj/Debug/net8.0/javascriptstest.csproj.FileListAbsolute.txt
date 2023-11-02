@@ -1,0 +1,16 @@
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.csproj.AssemblyReference.cache
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.AssemblyInfoInputs.cache
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.AssemblyInfo.cs
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.csproj.CoreCompileInputs.cache
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.sourcelink.json
+C:\Users\012614\Documents\GitHub\javascriptstest\bin\Debug\net8.0\javascriptstest.exe
+C:\Users\012614\Documents\GitHub\javascriptstest\bin\Debug\net8.0\javascriptstest.deps.json
+C:\Users\012614\Documents\GitHub\javascriptstest\bin\Debug\net8.0\javascriptstest.runtimeconfig.json
+C:\Users\012614\Documents\GitHub\javascriptstest\bin\Debug\net8.0\javascriptstest.dll
+C:\Users\012614\Documents\GitHub\javascriptstest\bin\Debug\net8.0\javascriptstest.pdb
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.dll
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\refint\javascriptstest.dll
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.pdb
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\javascriptstest.genruntimeconfig.cache
+C:\Users\012614\Documents\GitHub\javascriptstest\obj\Debug\net8.0\ref\javascriptstest.dll
